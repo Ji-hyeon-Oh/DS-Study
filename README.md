@@ -1,17 +1,8 @@
 <div align=center>
 
-<img src= "https://capsule-render.vercel.app/api?
-type=waving&
-color=134f2c&
-height=180&
-section=header&
-text=DS-Study
-fontSize=32&
-animation=fadeIn&
-fontAlignY=36&
-fontColor=ffffff"/>
+![header](https://capsule-render.vercel.app/api?type=soft&color=134f2c&height=100&section=header&text=DS%20Study&fontSize=50&fontColor=ffffff)
 
-# DS-Study
+
 주어진 데이터를 전처리하고 시각화 하며 새로운 문제를 정의하고, 이에 맞는 모델링 방법을 고민하여 서로 공유합니다.
 
 특히, __데이터를 새로운 시각으로__ 바라보는 연습에 집중합니다.
