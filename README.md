@@ -32,5 +32,6 @@ Github 활용(각자 repository 만들어서 올리기)
 |주제|데이터|마감기한|공지사항|
 |:---:|:---:|:---:|:---:|
 |Kaggle 공유 코드 필사|[Titanic](https://www.kaggle.com/competitions/titanic/)|2023.01.13|개수 제한 X, 7일 중간점검 진행|
+|Kaggle 공유 코드 필사 보완|[Titanic](https://www.kaggle.com/competitions/titanic/)|2023.01.23|희헌님 코드 같이 고민해보기|
 
 </div>
