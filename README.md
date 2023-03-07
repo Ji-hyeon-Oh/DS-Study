@@ -23,7 +23,7 @@ Github 활용(각자 repository 만들어서 올리기)
 
 __[2차]__  
 [희헌]
-DS 자격 관련 문제 리뷰  
+Proffesional Pro DS 자격 관련 문제 리뷰  
 Kaggle 공모전 데이터 분석 및 코드 리뷰 (필사 등)
 
 [지현]
@@ -47,7 +47,7 @@ Kaggle 공모전 데이터 분석 및 코드 리뷰 (필사 등)
 |Kaggle 공유 코드 필사|[Titanic](https://www.kaggle.com/competitions/titanic/)|2023.01.13|개수 제한 X, 7일 중간점검 진행|
 |Kaggle 공유 코드 필사 보완|[Titanic](https://www.kaggle.com/competitions/titanic/)|2023.01.23|희헌님 코드 같이 고민해보기|
 |필사 마무리 및 향후 스터디 계획 논의|[Titanic](https://www.kaggle.com/competitions/titanic/)|2023.02.19|각자 필요한 공부를 하되, 서로 공유해서 지식 확장하기|
-|평일 스터디|희헌: DS자격 / 지현: CS231n, class 및 Pytorch 문법 공부|2023.02.|발표는 다음 주에 진행|
+|평일 스터디|희헌: Proffesional Pro DS자격 준비 / 지현: CS231n, class 및 Pytorch 문법 공부|2023.02.|발표는 다음 주에 진행|
 |지현 공부 내용 공유|CNN 기본 개념과 용어, AlexNet, VGG, GoogLeNet, ResNet|2023.03.06|발표 자료 공유할 것|
 
 
