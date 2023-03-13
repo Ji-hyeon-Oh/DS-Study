@@ -49,6 +49,7 @@ Kaggle 공모전 데이터 분석 및 코드 리뷰 (필사 등)
 |필사 마무리 및 향후 스터디 계획 논의|[Titanic](https://www.kaggle.com/competitions/titanic/)|2023.02.19|각자 필요한 공부를 하되, 서로 공유해서 지식 확장하기|
 |평일 스터디|희헌: Proffesional Pro DS자격 준비 / 지현: CS231n, class 및 Pytorch 문법 공부|2023.02.|발표는 다음 주에 진행|
 |지현 공부 내용 공유|CNN 기본 개념과 용어, AlexNet, VGG, GoogLeNet, ResNet|2023.03.06|발표 자료 공유할 것|
+|공부 내용 공유|희헌: 통계추정 개념, 얕은 복사 및 깊은 복사 / 지현: Seq2seq, attention, Transformer|2023.03.12|발표 자료 공유할 것|
 
 
 </div>
